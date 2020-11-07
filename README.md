@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shruti Pandey</h1>
-<h3 align="center">TALK IS CHEAP,SHOW ME THE CODE</h3>
+<h3 align="center">TALK IS CHEAP, SHOW ME THE CODE</h3>
 
 - 📫 How to reach me **shrutipandey27122001@gmail.com**
 
