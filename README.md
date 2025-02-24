@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutipandey27" alt="shrutipandey27" /></a> </p>
 
-- 🔭 I’m currently working on **MERN project**
-
-- 🌱 I’m currently learning **Linear Regression**
 
 - 👯 I’m looking to collaborate on **open source and hackathon**
 
